@@ -66,14 +66,14 @@ const Hero = () => {
     <>
       <p>
         I'm a final year Artificial Intelligence Student. Currently, I’m focused on building
-        products with generative AI. Seeking an end-of-studies internship (PFE).
+        products with generative AI. Seeking an end-of-studies internship (PFE) in ML/DL.
       </p>
     </>
   );
   const five = (
     <a
       className="email-link"
-      href="https://www.newline.co/courses/build-a-spotify-connected-app"
+      href="mailto:medmachrouh.me@gmail.com"
       target="_blank"
       rel="noreferrer">
       Contact me
