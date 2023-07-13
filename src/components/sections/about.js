@@ -125,7 +125,14 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'TypeScript', 'React', 'Eleventy', 'Node.js', 'WordPress'];
+  const skills = [
+    'Tensorflow/Keras',
+    'Huggingface Hub',
+    'Diffusers',
+    'Transformers',
+    'OpenCV',
+    'Langchain',
+  ];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -135,30 +142,27 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Brittany and I enjoy creating things that live on the internet. My
-              interest in web development started back in 2012 when I decided to try editing custom
-              Tumblr themes — turns out hacking together a custom reblog button taught me a lot
-              about HTML &amp; CSS!
+              Hello! My name is Mohammed Machrouh and I'm a fifth year AI student at{' '}
+              <a href="https://www.ueuromed.org"> Euromed University of Fez.</a> I am deeply
+              passionate about the field of AI and the endless possibilities it offers. Throughout
+              my academic journey, I have explored various facets of artificial intelligence, honing
+              my skills and knowledge in this rapidly evolving field.
+              <br></br>
+              <br></br>
+              One area that truly captivates me is the integration of AI in healthcare. I believe it
+              can revolutionize the industry, improving diagnoses, treatment plans, and patient
+              outcomes. Combining my passion for AI with healthcare, I aim to develop cutting-edge
+              solutions that enhance medical practices and save lives.
             </p>
 
             <p>
-              Fast-forward to today, and I’ve had the privilege of working at{' '}
-              <a href="https://us.mullenlowe.com/">an advertising agency</a>,{' '}
-              <a href="https://starry.com/">a start-up</a>,{' '}
-              <a href="https://www.apple.com/">a huge corporation</a>, and{' '}
-              <a href="https://scout.camd.northeastern.edu/">a student-led design studio</a>. My
-              main focus these days is building accessible, inclusive products and digital
-              experiences at <a href="https://upstatement.com/">Upstatement</a> for a variety of
-              clients.
+              I've successfully built several projects implementing state-of-the-art AI
+              technologies. <a href="#projects">See below</a>
             </p>
-
             <p>
-              I also recently{' '}
-              <a href="https://www.newline.co/courses/build-a-spotify-connected-app">
-                launched a course
-              </a>{' '}
-              that covers everything you need to build a web app with the Spotify API using Node
-              &amp; React.
+              I also recently worked on a project that consists of a Moroccan Chatbot called{' '}
+              <a href="https://tarikhbot-medmac01.vercel.app/">TarikhBot</a>, that covers all of the
+              Moroccan History - from the Idrissid dynasty to the last few months of 2023.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>

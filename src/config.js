@@ -1,26 +1,26 @@
 module.exports = {
-  email: 'brittany.chiang@gmail.com',
+  email: 'medmachrouh.me@gmail.com',
 
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/bchiang7',
+      url: 'https://github.com/medmac01',
     },
     {
       name: 'Instagram',
-      url: 'https://www.instagram.com/bchiang7',
+      url: 'https://www.instagram.com/medmac01',
     },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/bchiang7',
+      url: 'https://twitter.com/medmac01',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/bchiang7',
+      url: 'https://www.linkedin.com/in/mohammed-machrouh',
     },
     {
-      name: 'Codepen',
-      url: 'https://codepen.io/bchiang7',
+      name: 'Huggingface',
+      url: 'https://huggingface.co/medmac01',
     },
   ],
 
@@ -44,7 +44,7 @@ module.exports = {
   ],
 
   colors: {
-    green: '#64ffda',
+    green: '#b24bf3',
     navy: '#0a192f',
     darkNavy: '#020c1b',
   },
