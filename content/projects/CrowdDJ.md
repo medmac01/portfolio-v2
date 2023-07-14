@@ -1,14 +1,14 @@
 ---
-date: '2017-03-01'
-title: 'Crowd DJ'
-github: 'https://github.com/crowddj/crowddj-react'
+date: '2022-03-01'
+title: 'Pneumonia detection from X-Rays using Convolu- tional Neural Networks'
+github: ''
 external: ''
 tech:
-  - React
-  - Firebase
-  - Spotify API
-company: HackBeanpot 2017
-showInProjects: false
+  - Tensorflow/Keras
+  - Flask
+  - MongoDB
+company: 'UEMF'
+showInProjects: true
 ---
 
-Web app that allows people to crowdsource a party's music queue. Allows people to request songs, upvote songs, rate songs, etc. so the DJ can see how the crowd is feeling and queue songs accordingly. Won Best UI/UX Design at Hackbeanpot 2017.
+This project consists of using CNNs to diagnose pneumonia based on a chest X-ray. As CNNs are well known for their great potential in image classification, they can be of service to detect if a patient is healthy or suffering from pneumonia either bacterial or viral.

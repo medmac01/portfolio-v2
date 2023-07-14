@@ -1,15 +1,15 @@
 ---
-date: '2016-04-01'
-title: 'CourseSource'
-github: 'https://github.com/bchiang7/WebDevSpring2016/tree/master/public/project'
+date: '2022-11-01'
+title: 'Movies Recommendation Systems'
+github: ''
 external: ''
 tech:
-  - Angular
-  - Node
-  - Express
-  - MongoDB
-company: 'Northeastern'
-showInProjects: false
+  - Neural Networks
+  - Tensorflow/Keras
+  - Scikit-learn
+  - Kmeans
+company: 'UEMF'
+showInProjects: true
 ---
 
-Web application built on the MEAN (MongoDB, Express, Angular, Node) stack with the intention of providing Northeastern students a better experience browsing the courses offered at Northeastern.
+During this project I built a Movie recommendation system using different Machine Learning algorithms, such as KNN, K-means, as well as Neural Networks. It was based on the famous MovieLens dataset.

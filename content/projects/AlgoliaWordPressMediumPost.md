@@ -1,14 +1,15 @@
 ---
-date: '2020-03-27'
-title: 'Integrating Algolia Search with WordPress Multisite'
+date: '2023-03-27'
+title: 'OCR Arabic words from IFN-ENIT dataset'
 github: ''
-external: 'https://medium.com/stories-from-upstatement/integrating-algolia-search-with-wordpress-multisite-e2dea3ed449c'
+external: ''
 tech:
-  - Algolia
-  - WordPress
-  - PHP
-company: 'Upstatement'
+  - CNN
+  - Bi-LSTM
+  - OpenCV
+  - WordBeamSearch
+company: 'UEMF-EIDIA'
 showInProjects: true
 ---
 
-Building a custom multisite compatible WordPress plugin to build global search with Algolia
+Training a model for optical caracter recognition on an Arabic word database (IFN-ENIT)

@@ -1,14 +1,14 @@
 ---
-date: '2018-12-01'
-title: 'Devoted Health'
+date: '2021-12-01'
+title: 'Sudoku Game using QT5 and C++'
 github: ''
-external: 'https://www.devoted.com/'
+external: ''
 tech:
-  - Gatsby
-  - TypeScript
-  - Algolia
-company: 'Upstatement'
-showInProjects: false
+  - QT5
+  - C++
+  - Backtracking algorithm
+company: 'UEMF'
+showInProjects: true
 ---
 
-A site for a revolutionary healthcare company, including an Algolia instant search integration
+Built a basic sudoku game based on Qt5 and C++.

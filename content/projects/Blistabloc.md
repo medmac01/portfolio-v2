@@ -1,14 +1,12 @@
 ---
-date: '2018-05-01'
-title: 'blistabloc'
+date: '2022-05-01'
+title: 'Knowledge Representation using Markov Decision Process (MDP) for Student Advising Systems'
 github: ''
-external: 'https://blistabloc.com/'
+external: ''
 tech:
-  - WordPress
-  - Timber
-  - WooCommerce
-company: 'Scout'
+  - Markov Decision Process
+  - C++
+  - Bayesian Networks + Monte Carlo Simulation
+company: 'UEMF'
 showInProjects: false
 ---
-
-Custom WordPress theme and e-commerce site built with Timber and WooCommerce for blistabloc, a start-up selling the only reactive shoe insert that prevents blisters from forming.

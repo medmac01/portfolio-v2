@@ -7,7 +7,7 @@ range: 'July - September 2023'
 url: ''
 ---
 
-- Developed and styled interactive web applications for Apple Music using Ember and SCSS
-- Built and shipped the Apple Music Extension for Facebook Messenger leveraging third-party and internal API integrations
-- Architected and implemented the user interface of Apple Music's embeddable web player widget for in-browser user authorization and full song playback
-- Contributed extensively to the creation of MusicKit JS, a public-facing JavaScript SDK for embedding Apple Music players into web applications
+- Developed and built a Computer Vision system for real-time object detection
+- Trained a custom object detection system with YOLO v8
+- Architected and implemented the user interface of a mobile app using Flutter
+- Contributed extensively to the collection and cleaning of large scale Image dataset for object detection

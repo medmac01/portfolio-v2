@@ -1,14 +1,15 @@
 ---
-date: '2017-12-01'
-title: 'Apple Music Embeddable Web Player Widget'
+date: '2023-01-01'
+title: 'Facial Recognition of Football players using Con- volutional Neural Networks'
 github: ''
-external: 'https://tools.applemusic.com/en-us'
+external: ''
 tech:
-  - MusicKit.js
-  - JS
-  - SCSS
-company: 'Apple'
+  - Tensorflow/Keras
+  - CNN (VGG-16)
+  - OpenCV
+  - Haar Cascading
+company: ''
 showInProjects: true
 ---
 
-Embeddable web player widget for Apple Music that lets users log in and listen to full song playback in the browser leveraging [MusicKit.js](https://developer.apple.com/documentation/musickitjs). Read more about this project on [9to5Mac](https://9to5mac.com/2018/06/03/apple-music-embeddable-web-player-listen-browser/).
+Built a computer vision pipeline that automatically extracts faces from a given image using Haar Cascading, and classifies it using a Deep Convolutional Neural Network.
